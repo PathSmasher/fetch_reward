@@ -1,0 +1,2 @@
+This repository contains apk files and android studio project for this JSON URL Parsing Assignment. 
+The apk file is workable on my phsical android phone and BlueStack/Nox Android Emulator on my PC. 
